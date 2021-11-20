@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning software tools and good practices.
 - 🌱 I’m currently relearning
 - 💞️ I’m looking to collaborate on open source software projects
-- 📫 How to reach me ...tpand43@yahoo.com
+- 📫 How to reach me ...
 
 <!---
 troyosaurus/troyosaurus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
