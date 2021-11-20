@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @troyosaurus
-- 👀 I’m interested in learning software tools and engineering
-- 🌱 I’m currently relearning my fundamentals
+- 👀 I’m interested in learning software tools and good practices.
+- 🌱 I’m currently relearning
 - 💞️ I’m looking to collaborate on open source software projects
 - 📫 How to reach me ...tpand43@yahoo.com
 
